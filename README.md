@@ -18,3 +18,9 @@ Here are the tutorial talks I gave on [CRUNCH group](https://www.brown.edu/resea
 ## Dissipative Particle Dynamics (DPD)
 
 - 2015-10-08, [scaling in DPD](20151008_DPD_scaling/DPD_scaling.pdf)
+
+## License
+
+[![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
+
+This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
