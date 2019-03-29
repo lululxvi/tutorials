@@ -1,6 +1,6 @@
 % $\mathcal{L}$ SciCoNet: **Sci**entific **Co**mputing Neural **Net**works
 % Lu Lu
-% Mar 27, 2019 @Crunch Seminar
+% Mar 29, 2019 @Crunch Seminar
 
 # Why SciCoNet?
 
@@ -136,5 +136,5 @@ $$\nu(y)D_{y}^{\alpha(y)} U(y) \approx \sum_{j=1}^{n+1} j(jRe\Delta y)^{-\alpha(
 
 Re = 2000
 
-![](figs/alpha_1.pdf){width=50%}
-![](figs/alpha_2.pdf){width=50%}
+![](figs/alpha_1.pdf){width=49%}
+![](figs/alpha_2.pdf){width=49%}

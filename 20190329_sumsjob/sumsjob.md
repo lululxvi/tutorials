@@ -1,6 +1,6 @@
 % $\Sigma\Sigma_{Job}$: Sums~Job~ (**S**imple **U**tility for **M**ultiple-**S**ervers **Job** **Sub**mission)
 % Lu Lu
-% Mar 27, 2019 @Crunch Seminar
+% Mar 29, 2019 @Crunch Seminar
 
 # To run a job...
 
@@ -23,7 +23,9 @@ From personal computer
 
 # One week later...
 
-![Cause I am lazy, I am crazy.](figs/crazy.jpeg)
+Cause I am lazy, I am crazy.
+
+![](figs/crazy.jpeg)
 
 # $\Sigma\Sigma_{Job}$
 
