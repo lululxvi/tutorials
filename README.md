@@ -4,12 +4,14 @@ Here are the tutorial talks I gave on [CRUNCH group](https://www.brown.edu/resea
 - [Neural Networks](#neural-networks)
 - [Python](#python)
 - [Dissipative Particle Dynamics](#dissipative-particle-dynamics-dpd)
+- [Tools](#tools)
 
 ## Neural Networks
 
 - 2018-02-16, [4 years of generative adversarial networks (GANs)](20180216_GAN/gan.pdf)
 - 2018-08-03, [neural networks 101: implementing feedforward neural nets using TensorFlow](20180803_neural_network/nn_tutorial.pdf)
 - 2019-01-25, [introduction to residual neural network (ResNet)](20190125_ResNet/ResNet.pdf)
+- 2019-03-29, [SciCoNet: Scientific Computing Neural Networks](20190329_sciconet/sciconet.pdf)
 
 ## Python
 
@@ -18,6 +20,10 @@ Here are the tutorial talks I gave on [CRUNCH group](https://www.brown.edu/resea
 ## Dissipative Particle Dynamics (DPD)
 
 - 2015-10-08, [scaling in DPD](20151008_DPD_scaling/DPD_scaling.pdf)
+
+## Tools
+
+- 2019-03-29, [Sums<sub>Job</sub>: Simple Utility for Multiple-Servers Job Submission](20190329_sumsjob/sumsjob.pdf)
 
 ## License
 
