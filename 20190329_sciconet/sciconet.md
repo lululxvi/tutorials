@@ -123,7 +123,7 @@ $y(x) = \sin (2\pi x)$
 
 # Challenge 4: College --- turbulence
 
-Variable fractional model
+Variable fractional model [Song & Karniadakis, arXiv, 2018]
 $$\nu(y)D_y^{\alpha(y)}U(y) = 1,\ \forall y\in(0,1]$$
 
 - $\alpha(0)=1$, $0<\alpha\leq1$
