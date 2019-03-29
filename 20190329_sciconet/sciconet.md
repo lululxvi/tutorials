@@ -4,10 +4,10 @@
 
 # Why SciCoNet?
 
-- A deep learning library designed for scientific computing on top of TensorFlow.
-
 Being able to go from idea to result with the least possible delay is key to doing good research.
 --- Keras
+
+- A deep learning library designed for scientific computing on top of TensorFlow.
 
 # SciCoNet
 
@@ -20,9 +20,10 @@ Use SciCoNet if you need a deep learning library that
 - solves fractional partial differential equations (**fPDE**s),
 - ...
 
-# Why $\mathcal{L}$?
+# Why this logo, $\mathcal{L}$?
 
 ![](figs/Lexus.png){ height=20% }
+![](figs/L3.jpeg){ height=20% }
 ![](figs/L_deathnote.pdf){ height=20% }
 
 The art of physics informed neural networks?
@@ -48,12 +49,16 @@ Highly-configurable
 - map, i.e., the function space,
 - model, which trains the map to match the data and constraints,
 
+# Hands-on. Are you ready for the challenge?
+
+![](figs/CaptainMarvelChallenge.jpg)
+
 # Installation
 
 - Dependencies: Matplotlib, NumPy, SALib, scikit-learn, SciPy, TensorFlow
 - Download: <https://github.com/lululxvi/sciconet>
 
-# Example 1: Elementary school --- dataset
+# Challenge 1: Elementary school --- dataset
 
 - examples/dataset.py
 
@@ -74,7 +79,7 @@ initializer = "Glorot normal"
 net = scn.maps.FNN(layer_size, activation, initializer)
 ```
 
-# Example 1: Elementary school --- dataset
+# Challenge 1: Elementary school --- dataset
 
 ```
 model = scn.Model(data, net)
@@ -96,7 +101,7 @@ scn.saveplot(
 )
 ```
 
-# Example 2: Middle school --- Poisson's equation
+# Challenge 2: Middle school --- Poisson's equation
 
 - $-\Delta y = \pi^2 \sin(\pi x)$
 - $x \in [-1, 1]$
@@ -106,7 +111,7 @@ $y(x) = \sin (\pi x)$
 
 - examples/pde.py
 
-# Example 3: High school --- IDE
+# Challenge 3: High school --- IDE
 
 - $\int_0^x y(t)dt + \frac{dy}{dx} = 2\pi \cos(2\pi x) + \frac{\sin^2 (\pi x)}{\pi}$
 - $x \in [0, 1]$
@@ -116,7 +121,7 @@ $y(x) = \sin (2\pi x)$
 
 - examples/ide.py
 
-# Example 4: College --- turbulence
+# Challenge 4: College --- turbulence
 
 Variable fractional model
 $$\nu(y)D_y^{\alpha(y)}U(y) = 1,\ \forall y\in(0,1]$$
@@ -132,7 +137,7 @@ $$\nu(y)D_y^{\alpha(y)}U(y) = 1,\ \forall y\in(0,1]$$
 
 $$\nu(y)D_{y}^{\alpha(y)} U(y) \approx \sum_{j=1}^{n+1} j(jRe\Delta y)^{-\alpha(y)} (U^{n+2-j}-2U^{n+1-j}+U^{n-j})$$
 
-# Example 4: College --- turbulence
+# Challenge 4: College --- turbulence
 
 Re = 2000
 
