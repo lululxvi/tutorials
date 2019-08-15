@@ -2,6 +2,8 @@
 
 ![](figs/title.png)
 
+NIPS 2018
+
 # Motivation
 
 - A trained **deep** neural network that has a **high** test accuracy
@@ -31,9 +33,7 @@ Algorithm
 
 # Weight computation I
 
-Intuition
-
-- Inform the simple model to ignore **hard** examples (**small** weight) and make it expend more effort on **easy** examples (**large** weight).
+Intuition: inform the simple model to ignore **hard** examples (**small** weight) and expend more effort on **easy** examples (**large** weight).
 
 Confidence profile
 
@@ -65,6 +65,8 @@ $\mathcal{C}$ is a neural network: $c_{iu} \to w_i$
 - Simple models: ResNets with 3, 5, 7, and 9 blocks
 
 ![](figs/cifar.png)
+
+- ConfWeight: $w_i =$ the confidence score of the last probe
 
 # Experiments: Manufacturing dataset
 
