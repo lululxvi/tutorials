@@ -45,7 +45,9 @@ $$w_i = \frac{1}{|I|} \sum_{u \in I} c_{iu}$$
 
 # Weight computation II
 
-$$S^* = \min_{w \in \mathcal{C}}\min_{\beta \in \mathcal{B}} E[\lambda (S_{w, \beta}(x)-y)]$$
+$$S^* = \min_{\beta} \mathbb{E}[\lambda (S_{\beta}(x)-y)] \Rightarrow S^* = \min_{w \in \mathcal{C}}\min_{\beta} \mathbb{E}[\lambda (S_{w, \beta}(x)-y)]$$
+
+$\mathcal{C}$ is a neural network: $c_{iu} \to w_i$
 
 Algorithm
 
@@ -54,10 +56,8 @@ Algorithm
 
     - Update $\beta$, i.e., training the simple model $S$ on the weighted dataset.
     - Update weights
-      $$w = \arg\min_{w \in \mathcal{C}} E[\lambda (S_{w, \beta}(x)-y)] + \gamma \mathcal{R}(w)$$
+      $$w = \arg\min_{w \in \mathcal{C}} \mathbb{E}[\lambda (S_{w, \beta}(x)-y)] + \gamma \mathcal{R}(w)$$
       $$\mathcal{R}(w) = (\frac{1}{m}\sum_i w_i - 1)^2$$
-
-$\mathcal{C}$ is a neural network: $c_{iu} \to w_i$
 
 # Experiments: CIFAR-10
 

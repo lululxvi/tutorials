@@ -4,7 +4,7 @@
 
 # AutoML
 
-Machine learning system building:
+Building machine learning system:
 
 - time-consuming;
 - human expertise.
@@ -64,10 +64,9 @@ It is hard to obtain enough data or the quality of data is not good enough.
 
 # Model generation: neural architecture search (NAS)
 
-Complete wiring diagrams of worm
+Complete wiring diagrams of worm [Cook et al., Nature, 2019]
 
-![](figs/worm1.png)
-![](figs/worm2.png)
+![](figs/worm.jpg)
 
 # Model generation: neural architecture search (NAS)
 
@@ -88,7 +87,7 @@ Most simple case: FNN (width, depth, activation)
 
 # Search space: chain structure
 
-![](figs/chain.png)
+![](figs/chain_small.png)
 
 - The search space is usually very large
 - Short of transferability.
@@ -97,7 +96,7 @@ Most simple case: FNN (width, depth, activation)
 
 Search for cell structures and then stack cells
 
-![](figs/block.png)
+![](figs/block_small.png)
 
 Two-level hierarchy
 
@@ -179,7 +178,7 @@ Speedup
 
 Search space is hand designed $\to$ random (human-designed)?
 
-![](figs/random_net.png)
+![](figs/random_net_small.png)
 
 # Randomly Wired Neural Networks
 
@@ -201,8 +200,7 @@ Motivation: speedup when **directly** learn for large-scale tasks $\to$ one shot
 
 - Train an "super" network once that contains all candidate paths $\to$ slow, more GPU memory
 
-$$m_{\mathcal{O}}^{One-Shot}(x) = \sum_{i=1}^n o_i(x)$$
-$$m_{\mathcal{O}}^{DARTS}(x) = \sum_{i=1}^n \frac{exp(\alpha_i)}{\sum_j exp(\alpha_j)} o_i(x)$$
+$$m_{\mathcal{O}}^{One-Shot}(x) = \sum_{i=1}^n o_i(x), m_{\mathcal{O}}^{DARTS}(x) = \sum_{i=1}^n \frac{exp(\alpha_i)}{\sum_j exp(\alpha_j)} o_i(x)$$
 
 - Keep only one path to be active
 
@@ -238,6 +236,16 @@ Vary operators
 
 # Weight Agnostic Neural Networks
 
-Examples ofWeight Agnostic Neural Networks: Bipedal Walker (left), Car Racing (right).
+Examples: Bipedal Walker (left), Car Racing (right).
 
 ![](figs/WANN_ex.png)
+
+# Questions?
+
+AutoML
+
+![](figs/automl_overview.png)
+
+NAS
+
+![](figs/nas_overview.png)
