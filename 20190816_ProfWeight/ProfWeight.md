@@ -1,4 +1,4 @@
-# Paper Review
+# Paper Review (Lu Lu, Aug 16, 2019 @ Crunch Seminar)
 
 ![](figs/title.png)
 
