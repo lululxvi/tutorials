@@ -14,7 +14,6 @@ Here are the tutorial talks I gave on [CRUNCH group](https://www.brown.edu/resea
 - 2019-03-29, [SciCoNet: Scientific Computing Neural Networks](20190329_sciconet/sciconet.pdf)
 - 2019-08-16, [Improving Simple Models with Confidence Profiles](20190816_ProfWeight/ProfWeight.pdf)
 - 2019-08-16, [AutoML: Automated machine learning](20190816_autoML/autoML.pdf)
-- 2019-10-18, [DeepONet: Learning nonlinear operators](20191018_DeepONet/DeepONet.pdf)
 
 ## Python
 
