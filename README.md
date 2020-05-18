@@ -1,17 +1,17 @@
 # Tutorials
 
 Here are the tutorial talks I gave on [CRUNCH group](https://www.brown.edu/research/projects/crunch/home), including topics on
-- [Neural Networks](#neural-networks)
+
+- [Deep Learning](#deep-learning)
 - [Python](#python)
 - [Dissipative Particle Dynamics](#dissipative-particle-dynamics-dpd)
 - [Tools](#tools)
 
-## Neural Networks
+## Deep Learning
 
 - 2018-02-16, [4 years of generative adversarial networks (GANs)](20180216_GAN/gan.pdf)
 - 2018-08-03, [neural networks 101: implementing feedforward neural nets using TensorFlow](20180803_neural_network/nn_tutorial.pdf)
 - 2019-01-25, [introduction to residual neural network (ResNet)](20190125_ResNet/ResNet.pdf)
-- 2019-03-29, [SciCoNet: Scientific Computing Neural Networks](20190329_sciconet/sciconet.pdf)
 - 2019-08-16, [Improving Simple Models with Confidence Profiles](20190816_ProfWeight/ProfWeight.pdf)
 - 2019-08-16, [AutoML: Automated machine learning](20190816_autoML/autoML.pdf)
 
