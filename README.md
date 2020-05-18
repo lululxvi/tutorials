@@ -5,7 +5,6 @@ Here are the tutorial talks I gave on [CRUNCH group](https://www.brown.edu/resea
 - [Deep Learning](#deep-learning)
 - [Python](#python)
 - [Dissipative Particle Dynamics](#dissipative-particle-dynamics-dpd)
-- [Tools](#tools)
 
 ## Deep Learning
 
@@ -22,10 +21,6 @@ Here are the tutorial talks I gave on [CRUNCH group](https://www.brown.edu/resea
 ## Dissipative Particle Dynamics (DPD)
 
 - 2015-10-08, [scaling in DPD](20151008_DPD_scaling/DPD_scaling.pdf)
-
-## Tools
-
-- 2019-03-29, [Sums<sub>Job</sub>: Simple Utility for Multiple-Servers Job Submission](20190329_sumsjob/sumsjob.pdf)
 
 ## License
 
