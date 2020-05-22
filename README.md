@@ -9,18 +9,19 @@ Here are the tutorial talks I gave on [CRUNCH group](https://www.brown.edu/resea
 ## Deep Learning
 
 - 2018-02-16, [4 years of generative adversarial networks (GANs)](20180216_GAN/gan.pdf)
-- 2018-08-03, [neural networks 101: implementing feedforward neural nets using TensorFlow](20180803_neural_network/nn_tutorial.pdf)
-- 2019-01-25, [introduction to residual neural network (ResNet)](20190125_ResNet/ResNet.pdf)
-- 2019-08-16, [Improving Simple Models with Confidence Profiles](20190816_ProfWeight/ProfWeight.pdf)
+- 2018-08-03, [Neural networks 101: Implementing feedforward neural nets using TensorFlow](20180803_neural_network/nn_tutorial.pdf)
+- 2019-01-25, [Introduction to residual neural network (ResNet)](20190125_ResNet/ResNet.pdf)
+- 2019-08-16, [Improving simple models with confidence profiles](20190816_ProfWeight/ProfWeight.pdf)
 - 2019-08-16, [AutoML: Automated machine learning](20190816_autoML/autoML.pdf)
+- 2020-05-22, [Double-descent phenomenon in deep learning](20200522_double_descent/double_descent.pdf)
 
 ## Python
 
-- 2018-01-24, [Python 101: from zero to hero](20180124_Python/python_tutorial.pdf)
+- 2018-01-24, [Python 101: From zero to hero](20180124_Python/python_tutorial.pdf)
 
 ## Dissipative Particle Dynamics (DPD)
 
-- 2015-10-08, [scaling in DPD](20151008_DPD_scaling/DPD_scaling.pdf)
+- 2015-10-08, [Scaling in DPD](20151008_DPD_scaling/DPD_scaling.pdf)
 
 ## License
 
