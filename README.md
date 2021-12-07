@@ -1,6 +1,6 @@
 # Tutorials
 
-Here are the tutorial talks I gave on [CRUNCH group](https://www.brown.edu/research/projects/crunch/home), including topics on
+Here are the tutorial talks I gave on various topics, including
 
 - [Deep Learning](#deep-learning)
 - [Python](#python)
@@ -14,6 +14,7 @@ Here are the tutorial talks I gave on [CRUNCH group](https://www.brown.edu/resea
 - 2019-08-16, [Improving simple models with confidence profiles](20190816_ProfWeight/ProfWeight.pdf)
 - 2019-08-16, [AutoML: Automated machine learning](20190816_autoML/autoML.pdf)
 - 2020-05-22, [Double-descent phenomenon in deep learning](20200522_double_descent/double_descent.pdf)
+- 2021-12-08, [Deep learning: Handson](20211208_deep_learning_handson/deep_learning_handson.pdf)
 
 ## Python
 
