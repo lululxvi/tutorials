@@ -36,11 +36,11 @@ optimizer = torch.optim.Adam(nn.parameters(), lr=lr)
 
 # Train
 for i in range(nsteps):
-    optimizer.zero_grad()
     y = nn(torch.from_numpy(train_x))
     # Loss
     loss_fn = torch.nn.MSELoss()
     loss = loss_fn(y, torch.from_numpy(train_y))
+    optimizer.zero_grad()
     loss.backward()
     optimizer.step()
 

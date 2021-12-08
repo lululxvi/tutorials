@@ -41,7 +41,7 @@ sess.run(tf.global_variables_initializer())
 for i in range(nsteps):
     err_train, _ = sess.run([loss, train], feed_dict={x: train_x, y_: train_y})
     if i % 1000 == 0 or i == nsteps - 1:
-        err_test, pred_y = sess.run([loss, y], feed_dict={x: test_x, y_: test_y})
+        pred_y, err_test = sess.run([y, loss], feed_dict={x: test_x, y_: test_y})
         print(i, err_train, err_test)
 
 # Plot
