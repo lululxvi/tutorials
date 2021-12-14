@@ -8,9 +8,9 @@ Here are the tutorial talks I gave on various topics, including
 
 ## Deep Learning
 
-- 2021-12-10, [Physics-informed neural network (PINN)](20211210_pinn/pinn.pdf)
-- 2021-12-08, [Deep learning: Software installation & Code implementation](20211208_deep_learning_handson/deep_learning_handson.pdf)
-- 2021-12-08, [Deep learning: Concepts & Algorithms](20211208_deep_learning/deep_learning.pdf)
+- 2021-12-10, [Physics-informed neural network (PINN)](20211210_pinn/pinn.pdf) [[Video in Chinese](http://tianyuan.xmu.edu.cn/cn/minicourses/637.html)]
+- 2021-12-08, [Deep learning: Software installation & Code implementation](20211208_deep_learning_handson/deep_learning_handson.pdf) [[Video in Chinese](http://tianyuan.xmu.edu.cn/cn/minicourses/637.html)]
+- 2021-12-08, [Deep learning: Concepts & Algorithms](20211208_deep_learning/deep_learning.pdf) [[Video in Chinese](http://tianyuan.xmu.edu.cn/cn/minicourses/637.html)]
 - 2020-05-22, [Double-descent phenomenon in deep learning](20200522_double_descent/double_descent.pdf)
 - 2019-08-16, [AutoML: Automated machine learning](20190816_autoML/autoML.pdf)
 - 2019-08-16, [Improving simple models with confidence profiles](20190816_ProfWeight/ProfWeight.pdf)
