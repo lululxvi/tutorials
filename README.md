@@ -8,6 +8,7 @@ Here are the tutorial talks I gave on various topics, including
 
 ## Deep Learning
 
+- 2022-07-22, [Deep Learning for Scientists and Engineers: Introduction](20220722_sciml/sciml_introduction.pdf)
 - 2021-12-10, [Physics-informed neural network (PINN)](20211210_pinn/pinn.pdf) [[Video in Chinese](http://tianyuan.xmu.edu.cn/cn/minicourses/637.html)]
 - 2021-12-08, [Deep learning: Software installation & Code implementation](20211208_deep_learning_handson/deep_learning_handson.pdf) [[Video in Chinese](http://tianyuan.xmu.edu.cn/cn/minicourses/637.html)]
 - 2021-12-08, [Deep learning: Concepts & Algorithms](20211208_deep_learning/deep_learning.pdf) [[Video in Chinese](http://tianyuan.xmu.edu.cn/cn/minicourses/637.html)]
