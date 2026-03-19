@@ -8,7 +8,10 @@ Here are the tutorial talks I gave on various topics, including
 
 ## Deep Learning
 
-- 2026-03-19, [Physics-informed neural network (PINN) and DeepXDE](20260319_AI4S_PINN)
+- 2026-03-19, Physics-informed neural network (PINN) and DeepXDE
+  - [Physics-informed neural network (PINN)](20260319_AI4S_PINN/lecture_PINN.pdf)
+  - [DeepXDE](20260319_AI4S_PINN/lecture_DeepXDE_PINN.pdf)
+  - [DeepXDE demos](20260319_AI4S_PINN/code)
 - 2022-07-22, [Deep Learning for Scientists and Engineers: Introduction](20220722_sciml/sciml_introduction.pdf)
 - 2021-12-10, [Physics-informed neural network (PINN)](20211210_pinn/pinn.pdf) [[Video in Chinese](http://tianyuan.xmu.edu.cn/cn/minicourses/637.html)]
 - 2021-12-08, [Deep learning: Software installation & Code implementation](20211208_deep_learning_handson/deep_learning_handson.pdf) [[Video in Chinese](http://tianyuan.xmu.edu.cn/cn/minicourses/637.html)]
