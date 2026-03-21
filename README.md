@@ -8,7 +8,7 @@ Here are the tutorial talks I gave on various topics, including
 
 ## Deep Learning
 
-- 2026-03-19, Physics-informed neural network (PINN) and DeepXDE
+- 2026-03-19, Physics-informed neural network (PINN) and DeepXDE [[Video in Chinese](https://www.bilibili.com/video/BV1vbAsznEvX/)]
   - [Physics-informed neural network (PINN)](20260319_AI4S_PINN/lecture_PINN.pdf)
   - [DeepXDE](20260319_AI4S_PINN/lecture_DeepXDE_PINN.pdf)
   - [DeepXDE demos](20260319_AI4S_PINN/code)
